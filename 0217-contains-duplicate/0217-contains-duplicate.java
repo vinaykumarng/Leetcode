@@ -9,15 +9,6 @@ class Solution {
 
             intSet.add(num);
         }
-
-        // int arrSize = nums.length;
-        // int setSize = intSet.size();
-
-        // if(arrSize == setSize)
-        //     return false;
-        // else
-        //     return true;\
-
         return false;
     }
 }
