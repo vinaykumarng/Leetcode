@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/vinaykumarng/Leetcode/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/vinaykumarng/Leetcode/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/vinaykumarng/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 ## Hash Table
 |  |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/vinaykumarng/Leetcode/tree/master/0125-valid-palindrome) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
