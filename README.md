@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/vinaykumarng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/vinaykumarng/Leetcode/tree/master/0242-valid-anagram) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/vinaykumarng/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vinaykumarng/Leetcode/tree/master/0009-palindrome-number) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/vinaykumarng/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumarng/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
 |  |
