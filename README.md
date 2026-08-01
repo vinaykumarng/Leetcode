@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vinaykumarng/Leetcode/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/vinaykumarng/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinaykumarng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Divide and Conquer
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vinaykumarng/Leetcode/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/vinaykumarng/Leetcode/tree/master/0070-climbing-stairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vinaykumarng/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumarng/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/vinaykumarng/Leetcode/tree/master/1929-concatenation-of-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vinaykumarng/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
