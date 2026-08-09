@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vinaykumarng/Leetcode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/vinaykumarng/Leetcode/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/vinaykumarng/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vinaykumarng/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/vinaykumarng/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/vinaykumarng/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vinaykumarng/Leetcode/tree/master/0070-climbing-stairs) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vinaykumarng/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumarng/Leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/vinaykumarng/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vinaykumarng/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/vinaykumarng/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
