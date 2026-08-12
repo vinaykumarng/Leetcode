@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinaykumarng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vinaykumarng/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vinaykumarng/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vinaykumarng/Leetcode/tree/master/0705-design-hashset) |
 | [1929-concatenation-of-array](https://github.com/vinaykumarng/Leetcode/tree/master/1929-concatenation-of-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/vinaykumarng/Leetcode/tree/master/1929-concatenation-of-array) |
 ## Memoization
 |  |
@@ -119,4 +121,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/vinaykumarng/Leetcode/tree/master/0069-sqrtx) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
