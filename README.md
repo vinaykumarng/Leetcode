@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vinaykumarng/Leetcode/tree/master/0705-design-hashset) |
+| [1572-matrix-diagonal-sum](https://github.com/vinaykumarng/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/vinaykumarng/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/vinaykumarng/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
 ## Hash Table
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/vinaykumarng/Leetcode/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [1572-matrix-diagonal-sum](https://github.com/vinaykumarng/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
