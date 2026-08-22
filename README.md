@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vinaykumarng/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0206-reverse-linked-list](https://github.com/vinaykumarng/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0705-design-hashset](https://github.com/vinaykumarng/Leetcode/tree/master/0705-design-hashset) |
 ## Design
 |  |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/vinaykumarng/Leetcode/tree/master/0141-linked-list-cycle) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/vinaykumarng/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
