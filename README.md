@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/vinaykumarng/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vinaykumarng/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/vinaykumarng/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/vinaykumarng/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vinaykumarng/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vinaykumarng/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/vinaykumarng/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/vinaykumarng/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/vinaykumarng/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/vinaykumarng/Leetcode/tree/master/0189-rotate-array) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumarng/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Binary Search
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/vinaykumarng/Leetcode/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/vinaykumarng/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/vinaykumarng/Leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/vinaykumarng/Leetcode/tree/master/0189-rotate-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/vinaykumarng/Leetcode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2396-strictly-palindromic-number](https://github.com/vinaykumarng/Leetcode/tree/master/2396-strictly-palindromic-number) |
 ## Brainteaser
