@@ -182,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinaykumarng/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Database
+|  |
+| ------- |
+| [1193-monthly-transactions-i](https://github.com/vinaykumarng/Leetcode/tree/master/1193-monthly-transactions-i) |
 <!---LeetCode Topics End-->
