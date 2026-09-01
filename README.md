@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vinaykumarng/Leetcode/tree/master/0705-design-hashset) |
+| [0739-daily-temperatures](https://github.com/vinaykumarng/Leetcode/tree/master/0739-daily-temperatures) |
 | [1572-matrix-diagonal-sum](https://github.com/vinaykumarng/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/vinaykumarng/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/vinaykumarng/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/vinaykumarng/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/vinaykumarng/Leetcode/tree/master/0739-daily-temperatures) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -186,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1193-monthly-transactions-i](https://github.com/vinaykumarng/Leetcode/tree/master/1193-monthly-transactions-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/vinaykumarng/Leetcode/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
