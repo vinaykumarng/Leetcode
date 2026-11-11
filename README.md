@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/vinaykumarng/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/vinaykumarng/Leetcode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/vinaykumarng/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/vinaykumarng/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0682-baseball-game](https://github.com/vinaykumarng/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/vinaykumarng/Leetcode/tree/master/0705-design-hashset) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vinaykumarng/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/vinaykumarng/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/vinaykumarng/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+| [0410-split-array-largest-sum](https://github.com/vinaykumarng/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinaykumarng/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vinaykumarng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/vinaykumarng/Leetcode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vinaykumarng/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinaykumarng/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/vinaykumarng/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -197,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vinaykumarng/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0410-split-array-largest-sum](https://github.com/vinaykumarng/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Database
 |  |
 | ------- |
@@ -225,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/vinaykumarng/Leetcode/tree/master/0136-single-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/vinaykumarng/Leetcode/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
