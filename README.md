@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vinaykumarng/Leetcode/tree/master/0739-daily-temperatures) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinaykumarng/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vinaykumarng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vinaykumarng/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1572-matrix-diagonal-sum](https://github.com/vinaykumarng/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/vinaykumarng/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2012-sum-of-beauty-in-the-array](https://github.com/vinaykumarng/Leetcode/tree/master/2012-sum-of-beauty-in-the-array) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/vinaykumarng/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/vinaykumarng/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/vinaykumarng/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vinaykumarng/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## String
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vinaykumarng/Leetcode/tree/master/0704-binary-search) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/vinaykumarng/Leetcode/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/vinaykumarng/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1552-magnetic-force-between-two-balls](https://github.com/vinaykumarng/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 ## Dynamic Programming
 |  |
 | ------- |
